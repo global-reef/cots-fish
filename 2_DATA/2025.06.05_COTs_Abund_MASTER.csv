@@ -1,0 +1,455 @@
+Site,Survey_ID ,Date_mm.dd.yyyy,Avg_depth_m,Time,Duration_min,Vis_m,Researcher,Specimen,Active,Substrate,Growth Form ,Size_cm,Depth_m,Site_Type
+Red Rock Wall,RR1,04/01/2023,12,10:00,25,12,GlobalReef,1,N,HC,Encrusting,40,12,High Density
+Red Rock Wall,RR1,04/01/2023,12,10:00,25,12,GlobalReef,2,N,RK,NA,30,11,High Density
+Red Rock Wall,RR1,04/01/2023,12,10:00,25,12,GlobalReef,3,N,HC,Encrusting,40,11,High Density
+Red Rock Wall,RR1,04/01/2023,12,10:00,25,12,GlobalReef,4,Y,HC,Foliose,50,7,High Density
+Red Rock Wall,RR1,04/01/2023,12,10:00,25,12,GlobalReef,5,N,HC,Caestipose,50,9,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,1,N,HC,Encrusting,40,13,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,2,Y,HC,Laminar,50,10,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,3,Y,HC,Laminar,50,10,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,4,N,HC,Solitary,40,12,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,5,N,HC,Foliose,45,11,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,6,N,RU,NA,40,13,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,7,Y,HC,Encrusting,45,8,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,8,N,HC,Encrusting,40,11,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,9,N,HC,Encrusting,40,8,High Density
+Red Rock Wall,RR2,05/03/2023,11,9:00,20,12,GlobalReef,10,N,HC,Encrusting,40,11,High Density
+Red Rock Wall,RR3,10/01/2023,NA,13:30,24,12,GlobalReef,1,N,HC,Solitary,42,10,High Density
+Red Rock Wall,RR3,10/01/2023,NA,13:30,24,12,GlobalReef,2,N,HC,Submassive,51,9,High Density
+Red Rock Wall,RR3,10/01/2023,NA,13:30,24,12,GlobalReef,3,N,RK,NA,35,13,High Density
+Red Rock Wall,RR4,09/30/2023,12,10:00,40,12,GlobalReef,1,N,HC,,50,12,High Density
+Red Rock Wall,RR4,09/30/2023,12,10:00,40,12,GlobalReef,2,N,RU,NA,40,14,High Density
+Red Rock Wall,RR4,09/30/2023,12,10:00,40,12,GlobalReef,3,N,HC,,35,12,High Density
+Red Rock Wall,RR4,09/30/2023,12,10:00,40,12,GlobalReef,4,N,HC,,35,11,High Density
+Red Rock Wall,RR4,09/30/2023,12,10:00,40,12,GlobalReef,5,N,HC,,41,9,High Density
+Red Rock Wall,RR5,10/04/2023,11,10:00,35,NA,GlobalReef,1,N,HC,,45,11,High Density
+Red Rock Wall,RR5,10/04/2023,11,10:00,35,NA,GlobalReef,2,N,RU,NA,35,14,High Density
+Red Rock Wall,RR5,10/04/2023,11,10:00,35,NA,GlobalReef,3,Y,HC,,35,14,High Density
+Red Rock Wall,RR6,01/31/2024,12,10:00,22,12,GlobalReef,1,N,HC,,45,8,High Density
+Red Rock Wall,RR6,01/31/2024,12,10:00,22,12,GlobalReef,2,N,HC,,40,8,High Density
+Red Rock Wall,RR6,01/31/2024,12,10:00,22,12,GlobalReef,3,N,HC,,45,11,High Density
+Red Rock Wall,RR6,01/31/2024,12,10:00,22,12,GlobalReef,4,N,HC,,35,13,High Density
+Red Rock Wall,RR6,01/31/2024,12,10:00,22,12,GlobalReef,5,N,RK,NA,50,12.5,High Density
+Red Rock Wall,RR6,01/31/2024,12,10:00,22,12,GlobalReef,6,N,HC,,50,12,High Density
+Red Rock Wall,RR7,03/24/2024,11,8:00,25,NA,GlobalReef,1,N,HC,,43,12,High Density
+Red Rock Wall,RR7,03/24/2024,11,8:00,25,NA,GlobalReef,2,N,HC,,58,13,High Density
+Red Rock Wall,RR7,03/24/2024,11,8:00,25,NA,GlobalReef,3,N,RK,NA,54,12,High Density
+Red Rock Wall,RR8,04/06/2024,12,8:00,22,10,GlobalReef,1,N,HC,,58,10,High Density
+Red Rock Wall,RR8,04/06/2024,12,8:00,22,10,GlobalReef,2,Y,RK,NA,52,15,High Density
+Red Rock Wall,RR9,05/21/2024,11,10:00,22,10,GlobalReef,1,Y,HC,,45,10,High Density
+Red Rock Wall,RR9,05/21/2024,11,10:00,22,10,GlobalReef,2,N,RK,NA,50,12,High Density
+Red Rock Wall,RR9,05/21/2024,11,10:00,22,10,GlobalReef,3,N,RK,NA,45,12,High Density
+Red Rock Wall,RR9,05/21/2024,11,10:00,22,10,GlobalReef,4,N,RK,NA,40,11,High Density
+Red Rock Wall,RR9,05/21/2024,11,10:00,22,10,GlobalReef,5,Y,HC,,40,15,High Density
+Red Rock Wall,RR9,05/21/2024,11,10:00,22,10,GlobalReef,6,N,HC,,45,13,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,1,Y,RK,NA,40,13,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,2,N,HC,,45,12,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,3,Y,HC,,46,10,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,4,Y,HC,,44,9,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,5,N,HC,,52,11,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,6,N,RK,NA,50,13,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,7,Y,HC,,60,8,High Density
+Red Rock Wall,RR10,05/25/2024,12,8:00,21,15,GlobalReef,8,Y,HC,,62,15,High Density
+Red Rock Wall,RR11,07/04/2024,10,10:00,21,10,GlobalReef,1,N,RK,NA,40.5,15,High Density
+Red Rock Wall,RR11,07/04/2024,10,10:00,21,10,GlobalReef,2,N,RU,NA,37,11,High Density
+Red Rock Wall,RR11,07/04/2024,10,10:00,21,10,GlobalReef,3,N,RK,NA,50,10.5,High Density
+Red Rock Wall,RR11,07/04/2024,10,10:00,21,10,GlobalReef,4,N,HC,,44,9,High Density
+Red Rock Wall,RR11,07/04/2024,10,10:00,21,10,GlobalReef,5,N,RK,NA,52,10,High Density
+Red Rock Wall,RR11,07/04/2024,10,10:00,21,10,GlobalReef,6,N,HC,,34,11,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,1,N,RB,,43,14,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,2,N,RK,NA,42,14,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,3,N,HC,,43,15,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,4,N,HC,,38,10,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,5,N,RK,NA,40,13,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,6,N,RK,NA,45,13,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,7,N,RU,NA,47,12,High Density
+Red Rock Wall,RR12,08/14/2024,13,14:00,32,20,GlobalReef,8,NA,NA,NA,39,11,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,1,Y,RK,NA,44,11,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,2,Y,RK,NA,42,13,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,3,Y,RK,NA,50,8,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,4,N,RK,NA,40,7,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,5,N,HC,,54,7,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,6,N,HC,,38,11,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,7,Y,HC,,37,10,High Density
+Red Rock Wall,RR13,08/25/2024,11,8:00,27,15,GlobalReef,8,N,HC,,64,10,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,1,N,RK,NA,40,11.7,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,2,N,RK,NA,48,9.2,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,3,N,HC,,46,7.8,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,4,N,HC,,43,11,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,5,N,HC,,45,10,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,6,N,RK,NA,36,11,High Density
+Red Rock Wall,RR14,09/04/2024,11,8:00,27,8,GlobalReef,7,Y,RK,NA,50,11.8,High Density
+Red Rock Wall,RR15,09/12/2024,10,9:00,27,10,GlobalReef,1,N,RK,NA,35,10,High Density
+Red Rock Wall,RR15,09/12/2024,10,9:00,27,10,GlobalReef,2,N,RK,NA,48,11,High Density
+Red Rock Wall,RR15,09/12/2024,10,9:00,27,10,GlobalReef,3,N,RK,NA,38,11.6,High Density
+Red Rock Wall,RR15,09/12/2024,10,9:00,27,10,GlobalReef,4,N,RK,NA,34,11.5,High Density
+Red Rock Wall,RR15,09/12/2024,10,9:00,27,10,GlobalReef,5,N,HC,,45,11.4,High Density
+Red Rock Wall,RR15,09/12/2024,10,9:00,27,10,GlobalReef,6,Y,HC/Rock,,44,12.7,High Density
+Red Rock Wall,RR16,10/21/2024,12,9:30,30,6,GlobalReef,1,N,HC,,48,12.2,High Density
+Red Rock Wall,RR16,10/21/2024,12,9:30,30,6,GlobalReef,2,N,HC,Arborescent,49,9.5,High Density
+Red Rock Wall,RR17,01/29/2025,9.2,9:30,30,5,"Olive, Martin",1,Y,HC,,41,10.3,High Density
+Red Rock Wall,RR17,01/29/2025,9.2,9:30,30,5,"Olive, Martin",2,Y,HC,,41,11.5,High Density
+Red Rock Wall,RR17,01/29/2025,9.2,9:30,30,5,"Olive, Martin",3,Y,HC,,39,10.7,High Density
+Red Rock Wall,RR17,01/29/2025,9.2,9:30,30,5,"Olive, Martin",4,N,HC/Rock,,33,9,High Density
+Red Rock Wall,RR18,02/12/2025,8.6,7:21,NA,10,"Bjarne, Ben, Georgia",1,N,HC,,45,9.1,High Density
+Red Rock Wall,RR18,02/12/2025,8.6,7:21,NA,10,"Bjarne, Ben, Georgia",2,N,HC,,46,10.5,High Density
+Red Rock Wall,RR18,02/12/2025,8.6,7:21,NA,10,"Bjarne, Ben, Georgia",3,Y,AB,NA,49,11.5,High Density
+Red Rock Wall,RR18,02/12/2025,8.6,7:21,NA,10,"Bjarne, Ben, Georgia",4,N,HC,,46,11.1,High Density
+Red Rock Wall,RR18,02/12/2025,8.6,7:21,NA,10,"Bjarne, Ben, Georgia",5,N,HC,,47,10.2,High Density
+Red Rock Wall,RR19,04/08/2025,10,7:16,NA,12,"Camille, Eugenie",1,Y,HC,Submassive,47,11.7,High Density
+Red Rock Wall,RR19,04/08/2025,10,7:16,NA,12,"Camille, Eugenie",2,Y,HC,Laminar,54,10.4,High Density
+Red Rock Wall,RR19,04/08/2025,10,7:16,NA,12,"Camille, Eugenie",3,N,HC,Laminar,42,9.5,High Density
+Red Rock Wall,RR19,04/08/2025,10,7:16,NA,12,"Camille, Eugenie",4,N,RK,NA,36,8.4,High Density
+Red Rock Wall,RR19,04/08/2025,10,7:16,NA,12,"Camille, Eugenie",5,Y,HC,Foliose,53,8.8,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,1,N,RK,,25,11.8,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,2,N,HC,Encrusting,48,8.5,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,3,N,HC,Submassive,35,6.2,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,4,N,HC,Submassive,40,10.5,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,5,Y,RK,,45,8,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,6,N,RU,,50,12.2,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,7,N,RK,,45,11.5,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,8,N,HC,Encrusting,45,9.8,High Density
+Green Rock Wall,GR1,05/19/2020,10,13:00,50,12,GlobalReef,9,N,HC,Submassive,50,11,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,1,N,HC,Encrusting,40,10.2,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,2,N,HC,Submassive,30,10.8,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,3,N,HC,Encrusting,40,11.5,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,4,N,HC,Encrusting,15,11.3,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,5,N,RK,,20,11.7,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,6,Y,HC,Submassive,45,10.5,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,7,N,HC,Encrusting,45,7.8,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,8,N,HC,Encrusting,35,7.2,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,9,N,HC,Encrusting,50,10.8,High Density
+Green Rock Wall,GR2,05/19/2020,10,15:00,50,12,GlobalReef,10,N,HC,Encrusting,50,9.5,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,1,N,RK,,40,11.5,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,2,Y,RK,,20,10,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,3,Y,RK,,40,11,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,4,N,HC,Massive,15,11,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,5,N,HC,Submassive,50,10,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,6,N,HC,Submassive,30,10,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,7,N,HC,Submassive,40,11,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,8,Y,RU,,40,14.5,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,9,N,RU,,40,9.5,High Density
+Green Rock Wall,GR3,05/26/2020,10,15:00,50,12,GlobalReef,10,N,HC,Submassive,40,10.5,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,1,Y,HC,Submassive,30,10,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,2,N,RU,,30,10,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,3,N,RK,,35,11.5,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,4,N,HC,Tabular,40,11,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,5,N,HC,Encrusting,40,10,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,6,N,HC,Submassive,40,9.5,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,7,N,HC,Encrusting,40,13,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,8,N,HC,Arborescent,40,9.5,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,9,N,HC,Submassive,30,9.5,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,10,N,HC,Encrusting,40,8,High Density
+Green Rock Wall,GR4,07/13/2020,10,13:00,45,12,GlobalReef,11,N,HC,Encrusting,40,13,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,1,N,RK,,40,10.5,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,2,N,HC,Tabular,45,11,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,3,N,RU,,45,10,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,4,N,RU,,50,9.5,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,5,N,HC,Submassive,25,9.5,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,6,N,RK,,35,12.5,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,7,N,HC,Arborescent,40,9.5,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,8,N,RK,,35,10,High Density
+Green Rock Wall,GR5,07/13/2020,10,15:00,45,12,GlobalReef,9,N,HC,Submassive,45,8,High Density
+Green Rock Wall,GR6,07/19/2020,10,13:00,50,12,GlobalReef,1,Y,HC,Submassive,40,9.5,High Density
+Green Rock Wall,GR6,07/19/2020,10,13:00,50,12,GlobalReef,2,N,RU,,40,11,High Density
+Green Rock Wall,GR6,07/19/2020,10,13:00,50,12,GlobalReef,3,Y,HC,Encrusting,40,9,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,1,N,RK,,25,10.5,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,2,Y,HC,Submassive,35,7.5,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,3,Y,HC,Submassive,30,10,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,4,Y,HC,Submassive,30,10.5,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,5,Y,HC,Foliose,30,9.5,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,6,Y,HC,Encrusting,40,11,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,7,Y,HC,Solitary,45,10,High Density
+Green Rock Wall,GR7,08/06/2020,10,13:00,45,18,GlobalReef,8,N,HC,Encrusting,35,9.5,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,1,N,RU,,40,11.5,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,2,N,RU,,35,12.5,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,3,N,HC,Encrusting,40,12.5,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,4,N,HC,Submassive,30,10,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,5,N,RK,,40,14,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,6,Y,HC,Submassive,40,10.5,High Density
+Green Rock Wall,GR8,08/15/2020,10,13:00,45,12,GlobalReef,7,N,HC,Submassive,45,10,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,1,N,HC,Submassive,25,8,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,2,N,RK,,40,11,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,3,N,RU,,35,11.5,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,4,N,RK,,40,8.5,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,5,N,HC,Corymbose,45,8,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,6,N,HC,Submassive,40,8,High Density
+Green Rock Wall,GR9,08/16/2020,8,13:00,45,12,GlobalReef,7,Y,HC,Encrusting,40,11.5,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,1,N,HC,Encrusting,25,8,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,2,Y,RK,,35,12,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,3,N,HC,Foliose,40,12,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,4,N,RK,,35,12,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,5,N,RK,,40,13.5,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,6,N,HC,Massive,45,13.5,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,7,N,HC,Submassive,35,10,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,8,N,HC,Submassive,35,10.5,High Density
+Green Rock Wall,GR10,08/18/2020,12,13:00,45,12,GlobalReef,9,N,RK,,30,13,High Density
+Green Rock Wall,GR11,08/21/2020,12,13:00,45,12,GlobalReef,1,N,HC,Encrusting,40,13,High Density
+Green Rock Wall,GR11,08/21/2020,12,13:00,45,12,GlobalReef,2,N,SP,,45,9.5,High Density
+Green Rock Wall,GR11,08/21/2020,12,13:00,45,12,GlobalReef,3,N,AB,,45,13,High Density
+Green Rock Wall,GR11,08/21/2020,12,13:00,45,12,GlobalReef,4,N,HC,Submassive,40,10.5,High Density
+Green Rock Wall,GR12,08/21/2020,6,15:00,45,18,GlobalReef,1,N,HC,Encrusting,40,7,High Density
+Green Rock Wall,GR12,08/21/2020,6,15:00,45,18,GlobalReef,2,N,HC,Arborescent,30,7.5,High Density
+Green Rock Wall,GR12,08/21/2020,6,15:00,45,18,GlobalReef,3,N,RK,,40,8,High Density
+Green Rock Wall,GR12,08/21/2020,6,15:00,45,18,GlobalReef,4,N,HC,Arborescent,40,8,High Density
+Green Rock Wall,GR12,08/21/2020,6,15:00,45,18,GlobalReef,5,Y,HC,Massive,40,8,High Density
+Green Rock Wall,GR12,08/21/2020,6,15:00,45,18,GlobalReef,6,N,HC,Arborescent,15,7,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,1,N,HC,Submassive,40,8.5,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,2,N,HC,Encrusting,50,8,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,3,N,RU,,35,8.5,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,4,N,RK,,55,9,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,5,N,RK,,40,10.5,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,6,Y,SP,,40,11.5,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,7,N,HC,Submassive,50,11,High Density
+Green Rock Wall,GR13,09/22/2020,10,13:00,45,7,GlobalReef,8,Y,HC,Encrusting,50,11,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,1,Y,HC,Corymbose,45,10.5,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,2,Y,HC,Encrusting,50,9,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,3,Y,RK,,40,11,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,4,N,RK,,45,11.5,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,5,N,RK,,30,10.5,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,6,N,AB,,50,11.5,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,7,N,HC,Encrusting,45,11.5,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,8,N,HC,Encrusting,40,10.5,High Density
+Green Rock Wall,GR14,09/27/2020,10,13:00,45,18,GlobalReef,9,Y,HC,Encrusting,50,11,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,1,N,HC,Submassive,40,10.5,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,2,N,HC,Encrusting,40,7.5,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,3,N,RK,,25,10,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,4,N,HC,Encrusting,45,11,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,5,Y,RK,,45,11,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,6,N,RK,,45,11,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,7,N,RK,Foliose,30,10,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,8,Y,NA,NA,50,10.5,High Density
+Green Rock Wall,GR15,09/29/2020,10,13:00,45,18,GlobalReef,9,N,HC,Encrusting,55,9,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,1,N,RK,,25,8.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,2,N,HC,Foliose,35,12,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,3,Y,RU,,35,12.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,4,N,RK,,40,11.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,5,N,RK,,40,12,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,6,N,HC,Encrusting,35,12.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,7,N,RK,,40,10.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,8,N,RK,,40,10.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,9,Y,RK,,40,11.5,High Density
+Green Rock Wall,GR16,10/20/2022,10,13:00,45,18,GlobalReef,10,N,HC,Encrusting,45,11.5,High Density
+Green Rock Wall,GR17,11/22/2022,10,13:00,45,7,GlobalReef,1,Y,RK,,35,12.5,High Density
+Green Rock Wall,GR17,11/22/2022,10,13:00,45,7,GlobalReef,2,N,HC,Encrusting,40,12.5,High Density
+Green Rock Wall,GR17,11/22/2022,10,13:00,45,7,GlobalReef,3,Y,HC,Submassive,45,13.4,High Density
+Green Rock Wall,GR17,11/22/2022,10,13:00,45,7,GlobalReef,4,N,HC,Encrusting,40,12.5,High Density
+Green Rock Wall,GR17,11/22/2022,10,13:00,45,7,GlobalReef,5,N,RK,,45,14.1,High Density
+Green Rock Wall,GR17,11/22/2022,10,13:00,45,7,GlobalReef,6,N,RK,,40,14.6,High Density
+Green Rock Wall,GR18,10/04/2023,13,8:00,30,12,GlobalReef,1,Y,HC,,40,15,High Density
+Green Rock Wall,GR18,10/04/2023,13,8:00,30,12,GlobalReef,2,Y,HC,,45,14,High Density
+Green Rock Wall,GR18,10/04/2023,13,8:00,30,12,GlobalReef,3,N,HC,,35,13,High Density
+Green Rock Wall,GR18,10/04/2023,13,8:00,30,12,GlobalReef,4,N,HC,,40,10,High Density
+Green Rock Wall,GR18,10/04/2023,13,8:00,30,12,GlobalReef,5,Y,HC,,40,15,High Density
+Green Rock Wall,GR19,02/03/2024,12,8:00,20,12,GlobalReef,1,N,HC,,40,10.2,High Density
+Green Rock Wall,GR19,02/03/2024,12,8:00,20,12,GlobalReef,2,Y,RK,,40,11,High Density
+Green Rock Wall,GR19,02/03/2024,12,8:00,20,12,GlobalReef,3,Y,HC,,40,10,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,1,Y,RK,,50,8,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,2,Y,HC,,45,10,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,3,N,HC,,50,10,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,4,Y,HC,,40,10,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,5,N,HC,,45,11,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,6,Y,HC,,30,11,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,7,Y,HC,,50,10,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,8,Y,HC,,60,11,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,9,Y,HC,,50,9,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,10,N,RK,,45,8,High Density
+Green Rock Wall,GR20,02/20/2024,11,8:00,20,12,GlobalReef,11,N,RK,,45,9,High Density
+Green Rock Wall,GR21,03/25/2024,10,8:00,20,NA,GlobalReef,1,N,HC,,40,12,High Density
+Green Rock Wall,GR21,03/25/2024,10,8:00,20,NA,GlobalReef,2,N,HC,,40,13,High Density
+Green Rock Wall,GR21,03/25/2024,10,8:00,20,NA,GlobalReef,3,N,RK,,40,13,High Density
+Green Rock Wall,GR21,03/25/2024,10,8:00,20,NA,GlobalReef,4,N,HC,,40,10,High Density
+Green Rock Wall,GR21,03/25/2024,10,8:00,20,NA,GlobalReef,5,N,HC,,40,13,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,1,Y,SC,,46,13,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,2,N,RK,,52,11,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,3,Y,HC,,66,11,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,4,N,HC,,53,8,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,5,N,RK,,40,8,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,6,N,HC,,50,9,High Density
+Green Rock Wall,GR22,04/09/2024,10,7:30,30,10,GlobalReef,7,Y,NA,NA,44,9,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,1,Y,HC,,50,15,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,2,N,RK,,44,11,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,3,N,RK,,46,11,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,4,N,HC,,48,10,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,5,N,RK,,47,12,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,6,N,RK,,55,14,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,7,N,HC,,48,15,High Density
+Green Rock Wall,GR23,04/16/2024,13,8:00,21,12,GlobalReef,8,N,RK,,56,11,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,1,N,HC,,40,11,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,2,Y,HC,,48,9,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,3,N,RK,,40,13,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,4,N,RK,,44,11,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,5,N,RK,,50,14,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,6,N,RK,,50,12.8,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,7,Y,HC,,45,13,High Density
+Green Rock Wall,GR24,06/04/2024,11,8:00,23,20,GlobalReef,8,N,RK,,50,11,High Density
+Green Rock Wall,GR25,08/03/2024,11,8:00,28,20,GlobalReef,1,N,HC,,47,10,High Density
+Green Rock Wall,GR25,08/03/2024,11,8:00,28,20,GlobalReef,2,N,HC,,42,8,High Density
+Green Rock Wall,GR25,08/03/2024,11,8:00,28,20,GlobalReef,3,N,HC,,38,10,High Density
+Green Rock Wall,GR25,08/03/2024,11,8:00,28,20,GlobalReef,4,Y,HC,,46,12,High Density
+Green Rock Wall,GR25,08/03/2024,11,8:00,28,20,GlobalReef,5,N,HC,,50,12,High Density
+Green Rock Wall,GR25,08/03/2024,11,8:00,28,20,GlobalReef,6,N,HC,,47,11,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,1,N,HC,,52,12,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,2,N,HC,,46,10,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,3,N,HC,,49,9,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,4,Y,HC,,38,9.5,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,5,N,HC,,42,10.6,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,6,N,HC,,30,10,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,7,Y,HC,,52,9.5,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,8,N,AB,,50,12,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,9,N,RK,,53,15,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,10,N,aB,,44,12,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,11,N,HC,,51,12.5,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,12,N,RK,,50,12,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,13,N,HC,,54,11.5,High Density
+Green Rock Wall,GR26,08/26/2024,10,8:00,35,20,GlobalReef,14,N,HC,,49,10,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,1,N,HC,,38,13.6,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,2,N,HC,,36,10.6,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,3,N,RK,,36,11.7,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,4,Y,HC,,52,10.3,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,5,N,HC,,41,9.9,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,6,N,RK,,36,11.1,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,7,N,RK,,39,11.2,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,8,N,RK,,41,11.2,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,9,Y,HC,,53,13.4,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,10,N,HC,,45,13.5,High Density
+Green Rock Wall,GR27,10/16/2024,12,8:00,45,12,GlobalReef,11,N,HC,,60,16,High Density
+Green Rock Wall,GR28,10/21/2024,12,8:00,45,12,GlobalReef,1,N,CCA,,44,12.8,High Density
+Green Rock Wall,GR28,10/21/2024,12,8:00,45,12,GlobalReef,2,Y,HC,,43,11.9,High Density
+Green Rock Wall,GR28,10/21/2024,12,8:00,45,12,GlobalReef,3,N,HC,,48,12.2,High Density
+Green Rock Wall,GR28,10/21/2024,12,8:00,45,12,GlobalReef,4,N,ALG,,11,14.1,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",1,Y,RK,,36,10,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",2,Y,HC,,37,9.7,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",3,N,RK,,45,13,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",4,N,HC,,46,11.8,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",5,N,HC,,39,10.5,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",6,Y,HC,,44,10,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",7,N,RK,,49,15,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",8,N,RK,,41,14.5,High Density
+Green Rock Wall,GR29,01/29/2025,10,7:30,35,10,"Jen, Elise",9,N,RK,,37.5,15.1,High Density
+Green Rock Wall,GR31,02/28/2025,10,7:30,35,10,"Jen, Camille, Olive",1,N,RK,,46,10.1,High Density
+Green Rock Wall,GR31,02/28/2025,10,7:30,35,10,"Jen, Camille, Olive",2,Y,HC,,41,10.8,High Density
+Green Rock Wall,GR31,02/28/2025,10,7:30,35,10,"Jen, Camille, Olive",3,Y,HC,,36,8.5,High Density
+Green Rock Wall,GR30,02/19/2025,10,7:30,35,10,"Olive, Martin",1,Y,HC,,45,9.1,High Density
+Green Rock Wall,GR30,02/19/2025,10,7:30,35,10,"Olive, Martin",2,N,RU,,56,10.9,High Density
+Green Rock Wall,GR30,02/19/2025,10,7:30,35,10,"Olive, Martin",3,N,RU,,44,12.4,High Density
+Green Rock Wall,GR30,02/19/2025,10,7:30,35,10,"Olive, Martin",4,N,RK,,53,12.2,High Density
+Green Rock Wall,GR32,03/19/2025,10.3,7:13,30,15,"Olive, Pheobe",1,N,RK,N/A,32,10,High Density
+Green Rock Wall,GR32,03/19/2025,10.3,7:13,30,15,"Olive, Pheobe",2,N,RK,N/A,36,12,High Density
+Green Rock Wall,GR32,03/19/2025,10.3,7:13,30,15,"Olive, Pheobe",3,N,HC,Encrusting,45,11,High Density
+Green Rock Wall,GR32,03/19/2025,10.3,7:13,30,15,"Olive, Pheobe",4,N,HC,Encrusting,36,9.5,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",1,Y,RK,,43,9.7,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",2,N,HC,Submassive,45,12.7,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",3,N,HC,Submassive & Encrusting,46,11.6,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",4,N,RK,,40,11.5,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",5,N,HC,Encrusting & Submassive,48,11.1,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",6,N,HC,Folliose & Encrusting,39,10.9,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",7,N,HC,Submassive,43,11,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",8,N,HC,Submassive,44,9.8,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",9,N,HC,Submassive,49,9.6,High Density
+Green Rock Wall,GR33,03/26/2025,10.1,7:25,60,12,"Emma, Tessa",10,N,RK,,48,11.4,High Density
+Green Rock Wall,GR34,04/22/2025,12,7:27,25,18,"Camille, Scarlett",1,N,HC,Submassive,49,8.6,High Density
+Green Rock Wall,GR34,04/22/2025,12,7:27,25,18,"Camille, Scarlett",2,N,HC,Submassive + Foliose,44,8.3,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,1,N,RK,,32,8,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,2,N,RK,,53,9.2,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,3,N,RK,,40,9.5,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,4,N,RK,,30,11.8,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,5,N,RK,,39,11.8,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,6,N,RK,,36,6.7,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,7,N,HC,,50,12,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,8,N,HC,,38,11,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,9,N,RK,,47,9,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,10,N,HC,,44,12.4,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,11,N,RK,,40,12.7,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,12,N,RK,,42,12.7,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,13,N,HC,,37,9.1,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,14,N,RK,,39,11.2,High Density
+Twins Wall,TW1,09/11/2024,NA,13:00,NA,15,GlobalReef,15,Y,HC,,46,10.1,High Density
+Twins Wall,TW2,01/28/2025,8,13:00,25,15,GlobalReef,1,Y,HC,,21,9,High Density
+Twins Wall,TW2,01/28/2025,8,13:00,25,15,GlobalReef,2,Y,RB,,20,9,High Density
+Twins Wall,TW2,01/28/2025,8,13:00,25,15,GlobalReef,3,N,HC,,36,9,High Density
+Twins Wall,TW2,01/28/2025,8,13:00,25,15,GlobalReef,4,N,HC,,41,7,High Density
+Twins Wall,TW2,01/28/2025,8,13:00,25,15,GlobalReef,5,Y,HC,,36,5,High Density
+Twins Wall,TW2,01/28/2025,8,13:00,25,15,GlobalReef,6,Y,HC,,39,8,High Density
+Twins Wall,TW4,02/10/2025,7.8,14:43,51,18,"Ben, Keisha",1,N,HC,Tabular,30,7.2,High Density
+Twins Wall,TW3,02/04/2025,6.6,9:30,56,15,"Keisha, Max",1,N,HC,Tabular,46,6.2,High Density
+Twins Wall,TW3,02/04/2025,6.6,9:30,56,15,"Keisha, Max",2,N,HC,Submassive,41,5,High Density
+Twins Wall,TW3,02/04/2025,6.6,9:30,56,15,"Keisha, Max",3,N,HC,Submassive,33,6,High Density
+Twins Wall,TW3,02/04/2025,6.6,9:30,56,15,"Keisha, Max",4,N,HC,Foliose,39,6,High Density
+Twins Wall,TW3,02/04/2025,6.6,9:30,56,15,"Keisha, Max",5,N,HC,Submassive,32,6.1,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",1,Y,HC,Foliose,44,6.2,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",2,Y,HC,Submassive,50,7.7,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",3,Y,RK,,30,8,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",4,Y,HC,Caespitose,37,7,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",5,Y,HC,Submassive,39,6,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",6,Y,HC,Massive,45,6.4,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",7,Y,HC,Tabular,53,7.8,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",8,Y,HC,Submassive,48,7.3,High Density
+Twins Wall,TW5,02/12/2025,7.3,10:00,58,20,"Keisha, Martin",9,Y,HC,Submassive,34,6.4,High Density
+Twins Wall,TW6,03/04/2025,8,13:00,25,8,"Scarlett, Martin",1,N,RU,NA,43,11.4,High Density
+Twins Wall,TW6,03/04/2025,8,13:00,25,8,"Scarlett, Martin",2,N,HC,SUBM,47,7.8,High Density
+Twins Wall,TW6,03/04/2025,8,13:00,25,8,"Scarlett, Martin",3,Y,HC,TAB,39,7.1,High Density
+Twins Wall,TW8,03/24/2025,8,14:59,25,15,"Scar, Renzo, Niamh",1,Y,HC,SUBM,37,6.8,High Density
+Twins Wall,TW8,03/24/2025,8,14:59,25,15,"Scar, Renzo, Niamh",2,Y,HC,SUBM,46,7.5,High Density
+Twins Wall,TW8,03/24/2025,8,14:59,25,15,"Scar, Renzo, Niamh",3,Y,HC,TAB,44,5.5,High Density
+Twins Wall,TW7,03/24/2025,8.1,12:55,58,16,"Scar, Lucca, Emma",1,N,HC,SUBM,47,10.1,High Density
+Twins Wall,TW7,03/24/2025,8.1,12:55,58,16,"Scar, Lucca, Emma",2,N,HC,SUBM,38,7.4,High Density
+Twins Wall,TW8,04/01/2025,9.2,9:30,57,11,"Niamh, Tessa",1,N,RK,NA,48,5.1,High Density
+Twins Wall,TW8,04/01/2025,9.2,9:30,57,11,"Niamh, Tessa",2,Y,HC,SOLI,47,9.3,High Density
+Twins Wall,TW8,04/01/2025,9.2,9:30,57,11,"Niamh, Tessa",3,N,RK,NA,50,5.1,High Density
+Shark Island ,SI1,02/05/2025,11,NA,NA,NA,GlobalReef,0,NA,NA,NA,NA,NA,Control
+Shark Island ,SI2,03/21/2025,10,9:02,30,18,"Elise, Camille",0,NA,NA,NA,NA,NA,Control
+Shark Island ,SI3,03/25/2025,16,9:13,25,9,"Scar, Tessa",1,N,HC,Encrusting,32,16.5,Control
+Shark Island ,SI3,03/25/2025,16,9:13,25,9,"Scar, Tessa",2,N,HC,SUBM,40,17,Control
+Shark Island ,SI4,03/25/2025,11.3,9:13,25,9,"Emma, Lucca, Renzo",1,N,RK,N/A,42,14.4,Control
+Shark Island ,SI5,04/02/2025,11.9,9:07,55,12,"Emma, Tessa, Renzo",0,NA,NA,NA,NA,NA,Control
+Shark Island ,SI6,04/07/2025,11,8:43,NA,NA,"Camille, Ben ",0,NA,NA,NA,NA,NA,Control
+Shark Island ,SI7,04/07/2025,11,9:36,NA,NA,"Camille, Ben ",0,NA,NA,NA,NA,NA,Control
+Aow Leuk ,AL1,02/28/2025,9,12:40,25,10,"Max, Martin ",1,Yes,SA,NA,37 cm,10.5 m,Control
+Aow Leuk ,AL2,03/05/2025,7,15:34,22,10,"Olive, Martin",1,Y,HC,NA,38,8.7,Control
+Aow Leuk ,AL2,03/05/2025,7,15:34,22,10,"Olive, Martin",2,Y,HC,NA,26,9.1,Control
+Aow Leuk ,AL3,03/05/2025,7.6,15:12,24,10,"Max, Georgia",0,NA,NA,NA,NA,NA,Control
+Aow Leuk ,AL4,03/13/2025,8,15:43,20,8,"Camille, Elise",1,Yes,HC,Arborescent,20,8.1,Control
+Aow Leuk ,AL4,03/13/2025,8,15:43,20,8,"Camille, Elise",2,No,HC,Encrusting,42,9.9,Control
+Aow Leuk ,AL4,03/13/2025,8,15:43,20,8,"Camille, Elise",3,No,RK,NA,23,8.6,Control
+Aow Leuk ,AL5,04/21/2025,6.8,12:55,25,18,"Tessa, Camille, Renzo",1,N,RK,NA,38,9.2,Control
+Aow Leuk ,AL6,04/21/2025,6.8,15:00,25,18,"Tessa, Camille, Renzo",0,NA,NA,NA,NA,NA,Control
+Aow Leuk ,AL7,04/16/2025,7.3,14:56,61,10,"Niamh, Emma, Tessa",1,N,RK,NA,44,9.9,Control
+Aow Leuk ,AL7,04/16/2025,7.3,14:56,61,10,"Niamh, Emma, Tessa",2,N,RK,NA,39,9,Control
+Aow Leuk ,AL7,04/16/2025,7.3,14:56,61,10,"Niamh, Emma, Tessa",3,N,RK,NA,47,8.8,Control
+Aow Leuk ,AL8,04/16/2025,7.3,15:00,61,10,"Camille, Lucca",1,Y,HC,Encrusting,48,9.3,Control
+Aow Leuk ,AL8,04/16/2025,7.3,15:00,61,10,"Camille, Lucca",2,N,RK,NA,45,7.9,Control
+Aow Leuk ,AL8,04/16/2025,7.3,15:00,61,10,"Camille, Lucca",3,Y,RK,NA,47,7.7,Control
+Shark Island ,SI8,05/06/2025,8,7:40,NA,10,"Camille, Bjarne",0,NA,NA,NA,NA,NA,Control
+Shark Island ,SI9,05/06/2025,8,9:30,NA,10,"Camille, Bjarne",0,NA,NA,NA,NA,NA,Control
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",1,N,HC,Submassive,48,8.9,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",2,Y,RK,NA,46,6.3,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",3,N,HC,Tabulair,43,6.2,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",4,N,RK,NA,53,7.4,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",5,N,HC,Submassive,48,7.6,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",6,N,RK,NA,48,7.2,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",7,N,HC,Submassive,43,8.5,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",8,N,RK,NA,46,9.6,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",9,N,HC,Submassive,56,7,High Density
+Twins Wall,TW9,05/12/2025,8,13:00,58,20,"Bjarne, Tessa",10,N,RK,NA,43,9.1,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",1,N,RK,NA,44,15.6,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",2,N,HC,Submassive,46,11.3,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",3,N,HC,Encrusting,49,11.5,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",4,N,RK,NA,53,13.4,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",5,N,HC,Encrusting,58,13.2,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",6,Y,RK,NA,47,11.9,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",7,N,HC,Encrusting,46,14,High Density
+Red Rock Wall,RR20,05/21/2025,12,7:15,67,15,"Tessa, Niamh",8,N,RK,NA,36,14.4,High Density
+Green Rock Wall,GR35,05/21/2025,10.1,9:15,60,12,"Tessa, Niamh",1,N,RK,NA,52,12.5,High Density
+Green Rock Wall,GR35,05/21/2025,10.1,9:15,60,12,"Tessa, Niamh",2,N,RK,NA,55,10.5,High Density
+Green Rock Wall,GR35,05/21/2025,10.1,9:15,60,12,"Tessa, Niamh",3,Y,HC,NA,40,10.8,High Density
+Green Rock Wall,GR35,05/21/2025,10.1,9:15,60,12,"Tessa, Niamh",4,Y,HC,Submassive,43,10.2,High Density
+Red Rock Wall,RR21,05/26/2025,11.7,7:10,54,7,"Jess F, James, Flo",1,No,HC,Submissive,50,10.4,High Density
+Red Rock Wall,RR21,05/26/2025,11.7,7:10,54,7,"Jess F, James, Flo",2,Yes,RK,NA,40,9.4,High Density
+Red Rock Wall,RR21,05/26/2025,11.7,7:10,54,7,"Jess F, James, Flo",3,No,RK,NA,46,10.5,High Density
+Red Rock Wall,RR21,05/26/2025,11.7,7:10,54,7,"Jess F, James, Flo",4,No,HC,Encrusting,58,10.6,High Density
+Red Rock Wall,RR21,05/26/2025,11.7,7:10,54,7,"Jess F, James, Flo",5,No,RK,NA,46,14,High Density
+Red Rock Wall,RR21,05/26/2025,11.7,7:10,54,7,"Jess F, James, Flo",6,Yes,HC,Massive,49,11.3,High Density
+Shark Island ,SI10,05/29/2025,12,15:45,25,8,"Jess F, James, Flo",1,Yes,Rock,Rock,50,15.2,Control
+Shark Island ,SI10,05/29/2025,12,15:45,25,8,"Jess F, James, Flo",2,Yes,Coral,Submassive and encrusting,44,12.8,Control
+Shark Island ,SI11,05/29/2025,12,15:45,25,8,"Miera, Elena, Emma J ",0,NA,NA,NA,NA,NA,Control
