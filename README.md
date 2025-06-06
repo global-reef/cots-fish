@@ -12,9 +12,13 @@ Repository Structure
 --------------------
 
 1_BACKGROUND/         - Literature (TBA)
+
 2_DATA/               - Master survey data (CoTS and fish)  
+
 3_ANALYSIS/           - Scripts: Data cleaning, Statistical models and outputs, Plots and Figures 
+
 99_INSTALL.R          - Script to install/load required packages  'cmdrstan' - will need your own github token 
+
 README.md             - This file  
 
 Main Features
