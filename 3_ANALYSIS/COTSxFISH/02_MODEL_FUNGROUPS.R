@@ -129,16 +129,18 @@ effects_df <- bind_rows(
       ))
   })
 )
+
+
 ce_with_raw <- ggplot() +
   geom_point(data = raw_for_plot,
              aes(x = cots_density_ha, y = fish_density),
              alpha = 0.5, size = 1) +
   geom_line(data = effects_df,
             aes(x = cots_density_ha, y = estimate__),
-            color = "black", linewidth = 1) +
+            color = "#007A87", linewidth = 1) +
   geom_ribbon(data = effects_df,
               aes(x = cots_density_ha, ymin = lower__, ymax = upper__),
-              fill = "grey", alpha = 0.2) +
+              fill = "#66BFA6", alpha = 0.2) +
   facet_wrap(~ Functional_Group, scales = "free_y") +
   labs(
     x = expression("Crown-of-Thorns density (" * ha^{-1} * ")"),
@@ -146,7 +148,7 @@ ce_with_raw <- ggplot() +
     title = "CoTS Effects on Fish Functional Groups (Model vs. Observed)"
   ) +
   theme_minimal(base_size = 15) +
-  theme_clean +  theme(strip.text = element_text(size = 12))
+  theme_clean +  theme(strip.text = element_text(size = 15))
 print(ce_with_raw)
 print(ce_mv_plot)
 

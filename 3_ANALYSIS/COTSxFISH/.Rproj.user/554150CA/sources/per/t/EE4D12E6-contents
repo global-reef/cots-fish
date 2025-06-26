@@ -25,6 +25,8 @@ theme_clean <- theme_minimal(base_family = "Times New Roman") +
     plot.title = element_blank()
   )
 
+theme_set(theme_minimal(base_family = "Times New Roman"))
+
 ####### run the models #######
 ## set up 
 # data clean 
@@ -84,3 +86,11 @@ save_analysis_plots <- function() {
 save_analysis_plots()
 # ==== Completion Message ====
 cat("✅ Analysis complete! Data and plots saved in:", output_dir, "\n")
+
+
+
+
+## results summaries 
+summary(fit_total)
+summary(fit_mv)
+summary(fit_spp)

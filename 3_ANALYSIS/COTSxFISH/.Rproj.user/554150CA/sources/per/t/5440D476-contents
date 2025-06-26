@@ -32,18 +32,18 @@ functional_taxa <- tibble::tribble(
   "Thicklip",          "Invertivore",     "Hemigymnus",          "melapterus",     "Hemigymnus melapterus",
   "Red_Breast",        "Invertivore",     "Cheilinus",           "fasciatus",      "Cheilinus fasciatus",
   "Slingjaw",          "Invertivore",     "Epibulus",            "insidiator",     "Epibulus insidiator",
-  "Sweetlips",         "Invertivore",     "Diagramma/Plectorhinchus", "spp.",     "Diagramma/Plectorhinchus spp.",
+  "Sweetlips",         "Invertivore",     "Diagramma/Plectorhinchus", "spp.",     "Diagramma/ Plectorhinchus spp.",
   "Squirrel.Soldier",  "Invertivore",     "Holocentridae",       "spp.",           "Holocentridae spp.",
   "Triggerfish",       "Invertivore",     "Balistidae",          "spp.",           "Balistidae spp.",
   "Porcupine.Puffer",  "Invertivore",     "Diodon/Tetraodon",    "spp.",           "Diodon/Tetraodon spp.",
-  "Ray",               "Mesopredator",    "Taeniura/Neotrygon",  "spp.",           "Taeniura/Neotrygon spp.",
+  "Ray",               "Mesopredator",    "Taeniura/Neotrygon",  "spp.",           "Taeniura/ Neotrygon spp.",
   "sml_Snapper",       "Mesopredator",    "Lutjanus",            "spp.",           "Lutjanus (<30cm) spp.",
   "lrg_Snapper",       "HTLP",            "Lutjanus",            "spp.",           "Lutjanus (>30 cm) spp.",
   "Eel",               "Mesopredator",    "Gymnothorax",         "spp.",           "Gymnothorax spp.",
   "Trevally",          "HTLP",            "Caranx",              "spp.",           "Caranx spp.",
   "Emperorfish",       "Mesopredator",    "Lethrinus",           "spp.",           "Lethrinus spp.",
-  "sml_Grouper",       "Mesopredator",    "Cephalopholis/Epinephelus", "spp.",     "Cephalopholis/Epinephelus spp.",
-  "lrg_Grouper",       "HTLP",            "Epinephelus",         "spp.",           "Epinephelus (>30cm) spp.",
+  "sml_Grouper",       "Mesopredator",    "Cephalopholis/Epinephelus", "spp.",     "Cephalopholis/ Epinephelus spp.",
+  "lrg_Grouper",       "HTLP",            "Epinephelus",         "spp.",           "Epinephelus (>30cm)/Plectropomus spp.",
   "Barracuda",         "HTLP",            "Sphyraena",           "spp.",           "Sphyraena spp."
 )
 
@@ -112,3 +112,4 @@ write_csv(cotsxfish, file.path(output_dir, "cotsxfish.csv"))
 
 # ==== Completion Message ====
 cat("✅ Analysis complete! Data and plots saved in:", output_dir, "\n")
+

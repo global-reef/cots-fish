@@ -18,16 +18,19 @@ fit_total <- brm(
 summary(fit_total)
 ce_total <- conditional_effects(fit_total, effects = "cots_density_ha")$cots_density_ha
 
+
+
+
 allfish <- ggplot() +
   geom_point(data = total_fish_df,
              aes(x = cots_density_ha, y = total_fish_density),
              alpha = 0.6, size = 1) +
   geom_line(data = ce_total,
             aes(x = cots_density_ha, y = estimate__),
-            color = "black", linewidth = 1) +
+            color = "#007A87", linewidth = 1) +
   geom_ribbon(data = ce_total,
               aes(x = cots_density_ha, ymin = lower__, ymax = upper__),
-              fill = "grey", alpha = 0.2) +
+              fill = "#66BFA6", alpha = 0.2) +
   theme_minimal(base_size = 13)  +  theme_clean + theme(strip.text = element_text(size = 13)) +
   labs(
     x = expression("Crown-of-Thorns density (" * ha^{-1} * ")"),
