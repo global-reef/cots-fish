@@ -10,7 +10,7 @@ The project aims to determine whether increased CoTS densities are associated wi
 
 Repository Structure
 --------------------
-'''
+```
 1_BACKGROUND/         - Literature (TBA)
 
 2_DATA/               - Master survey data (CoTS and fish)  
@@ -20,7 +20,7 @@ Repository Structure
 99_INSTALL.R          - Script to install/load required packages  'cmdrstan' - will need your own github token 
 
 README.md             - This file  
-'''
+```
 
 Main Features
 -------------
@@ -34,13 +34,13 @@ Getting Started
 ---------------
 
 1. Clone the repository:
-   git clone https://github.com/global-reef/cots-fish.git
+   ``` git clone https://github.com/global-reef/cots-fish.git ```
 
 2. Install R dependencies:
-   source("99_INSTALL.R") # will need to update with your own GIS token ##
+   ``` source("99_INSTALL.R") # will need to update with your own GIS token ##``` 
 
 3. Run the analysis:
-   source("3_ANALYSIS/00_RUN.R")
+   ``` source("3_ANALYSIS/00_RUN.R")``` 
 
 Notes
 -----
