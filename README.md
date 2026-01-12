@@ -10,7 +10,7 @@ The project aims to determine whether increased CoTS densities are associated wi
 
 Repository Structure
 --------------------
-
+'''
 1_BACKGROUND/         - Literature (TBA)
 
 2_DATA/               - Master survey data (CoTS and fish)  
@@ -20,6 +20,7 @@ Repository Structure
 99_INSTALL.R          - Script to install/load required packages  'cmdrstan' - will need your own github token 
 
 README.md             - This file  
+'''
 
 Main Features
 -------------
